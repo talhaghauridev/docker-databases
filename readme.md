@@ -20,7 +20,7 @@ Make sure you have Docker Destop installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone ://github.com/talhaghauridev/docker-databases.git
 cd your-repository
 ```
 
